@@ -25,12 +25,12 @@ fviz_nbclust(data_scale, kmeans, method = "wss")
 ```
 #perform k-means clustering with k = 3 clusters
 ```{r}
-km <- kmeans(df_scale, centers = 3)
+km <- kmeans(data_scale, centers = 3)
 km
 ```
 #plot results of final k-means model
 ```{r}
 
-fviz_cluster(km, data = df_scale)
+fviz_cluster(km, data = data_scale)
 
 ```
