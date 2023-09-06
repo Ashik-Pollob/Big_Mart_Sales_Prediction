@@ -1,8 +1,8 @@
 ---
-title: "task1"
-author: "Md. Azmir Alam"
-date: "2022-12-20"
-output: html_document
+Title: "task1"
+Author: "S.M. Ashikul Islam Pollob"
+Date: "2023-09-06"
+Output: html_document
 ---
 
 
@@ -12,7 +12,6 @@ output: html_document
 #install.packages("readr")
 library(readr)
 data <- 	read_csv("student_scores - student_scores.csv",show_col_types=FALSE)
-
 data
 head(data)
 
@@ -21,8 +20,6 @@ head(data)
 ```{r}
 
 #install.packages("ggplot2")
-
-
 plot(data)
 
 ```
@@ -100,7 +97,6 @@ results <- as.data.frame(results)
 results
 
 
-
 ```
 ####prediction of score when a student study 9.25 hrs per day.
 ```{r}
@@ -110,6 +106,4 @@ Hours <- 9.5
 Hours <-as.data.frame(Hours)
 predicted_score <- predict(model, Hours)
 print(predicted_score)
-
-
 ```
