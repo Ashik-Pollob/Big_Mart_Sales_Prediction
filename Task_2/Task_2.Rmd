@@ -1,6 +1,6 @@
 ---
 Title: "Task_2"
-Tuthor: "S.M. Ashikul Islam Pollob"
+Author: "S.M. Ashikul Islam Pollob"
 Date: "2023-09-06"
 Output: html_document
 ---
