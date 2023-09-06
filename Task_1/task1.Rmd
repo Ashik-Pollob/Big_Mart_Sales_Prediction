@@ -11,7 +11,7 @@ Output: html_document
 
 #install.packages("readr")
 library(readr)
-data <- 	read_csv("student_scores - student_scores.csv",show_col_types=FALSE)
+data <- read_csv("student_scores - student_scores.csv",show_col_types=FALSE)
 data
 head(data)
 
