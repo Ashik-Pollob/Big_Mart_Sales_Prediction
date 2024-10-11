@@ -18,7 +18,7 @@ The "The BigMart Sales Prediction" data is available at [Kaggle](https://www.kag
 ### Dependent Feature:
 Item_Outlet_Sales ---- sales of the product in t particular store. This is the outcome variable to be predicted.
 ## Figures
--Dependent variable<br>
+- Dependent variable<br>
 ![predicted variable](https://github.com/user-attachments/assets/3de9ae0c-f14c-4751-90cf-5971d862fd9a)
 ![Numerical Features](https://github.com/user-attachments/assets/a2ce80f0-6b43-401d-b978-6f92ef156733)
 ![Categorical Features](https://github.com/user-attachments/assets/9ab3ae4b-a1ba-45c6-8dd9-1f2f8d974a5f)
