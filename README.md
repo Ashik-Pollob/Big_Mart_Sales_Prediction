@@ -14,7 +14,7 @@ The "The BigMart Sales Prediction" data is available at [Kaggle](https://www.kag
 - Outlet_Establishment_Year ---- The year in which the store was established
 - Outlet_Size ---- The size of the store in terms of ground area covered
 - Outlet_Location_Type ---- The type of city in which the store is located
-- Outlet_Type ---- Whether the outlet is just a grocery store or some sort of supermarket < br / >
+- Outlet_Type ---- Whether the outlet is just a grocery store or some sort of supermarket\
 **Dependent Features:**
 -Item_Outlet_Sales ---- sales of the product in t particular store. This is the outcome variable to be predicted.
 ##Figures
