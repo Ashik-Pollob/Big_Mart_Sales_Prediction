@@ -3,7 +3,7 @@ The BigMart dataset have 2013 sales data for 1559 products across 10 stores in d
 ## Data Source 
 The "The BigMart Sales Prediction" data is available at [Kaggle](https://www.kaggle.com/datasets/shivan118/big-mart-sales-prediction-datasets).
 ## Variables
-**Independent Features:**
+### Independent Features:
 - Item_Identifier ---- Unique product ID
 - Item_Weight ---- Weight of product
 - Item_Fat_Content ---- Whether the product is low fat or not
